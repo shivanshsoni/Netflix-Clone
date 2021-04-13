@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hosted at [https://clones-netflix.netlify.app/](https://clones-netflix.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
